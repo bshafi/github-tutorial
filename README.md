@@ -84,3 +84,6 @@ Take a look at the top of this github page you should see `Create Pull Request`.
 
 ## Pull Requests
 
+You should be on a screen with `Open a Pull Request`. Type a example description and 
+
+Pull requests are the way you request your changes to be added to the code base. Then the maintainers of the code base will review your changes and if they accept the changes they will merge it into the codebase.
