@@ -1,17 +1,43 @@
 # Github Tutorial
 
 ## Setup Python
-https://realpython.com/installing-python/
+https://realpython.com/installing-python/#step-1-download-the-official-python-installer
+
+Use this to ensure python was correctly installed
+```
+  python --version
+```
 
 ## Setup Github
 https://github.com/git-guides/install-git
 
-https://docs.github.com/en/get-started/git-basics/set-up-git
+
+Type this and if you get usage
+```
+  git
+```
+
+https://docs.github.com/en/github-cli/github-cli/quickstart
+
+```
+  gh auth login
+```
 
 
 ## Clone this Repo
 ```
 git clone https://github.com/bshafi/github-tutorial.git
+```
+
+Go into that directory
+```
+cd github-tutorial
+```
+
+## Enable Running Scripts on Windows
+If you can't run scripts use this in a admin powershell
+```
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
 ```
 
 ## Setup Virtual Environment and Install Requirements
