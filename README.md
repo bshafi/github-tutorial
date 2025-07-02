@@ -1,15 +1,15 @@
 # Github Tutorial
 
-## 1. Setup Python
+## Setup Python
 https://realpython.com/installing-python/
 
-## 2. Setup Github
+## Setup Github
 https://github.com/git-guides/install-git
 
 https://docs.github.com/en/get-started/git-basics/set-up-git
 
 
-## 3. Clone this Repo
+## Clone this Repo
 ```
 git clone https://github.com/bshafi/github-tutorial.git
 ```
@@ -29,7 +29,7 @@ Install all the necessary python libraries
 python -m pip install -r requirements.txt
 ```
 
-## 4. Basic Git Flow
+## Basic Git Flow
 
 ![img](resources/git%20flow.svg)
 
